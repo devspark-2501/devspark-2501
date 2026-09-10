@@ -15,3 +15,11 @@ I’m still figuring things out, constantly learning, and always open to new ide
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,vercel,netlify" />
 </p>
+
+<h1>📬 Contact Me</h1>
+
+<p>
+  <a href="mailto:devspark2501@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devspark2501%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
