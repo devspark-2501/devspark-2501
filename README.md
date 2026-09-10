@@ -2,11 +2,16 @@ Hey! I’m Tanush, a 16-year-old passionate developer who loves building, explor
 
 I’m always curious to try something new, challenge myself, and turn ideas into real projects. Right now, I’m also looking to meet other people who are interested in building, learning, and creating together.
 
-I’m still figuring things out, constantly learning, and always open to new ideas, opportunities, and collaborations. I’d love to connect with people who are on a similar journey!🔥
-
+I’m still figuring things out, constantly learning, and always open to new ideas, opportunities, and collaborations. I’d love to connect with people who are on a similar journey! 🔥
 
 <h1>🛠️ Tech Stack</h1>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,tailwind,python,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,tailwind,python,dart,flutter,mongodb" />
+</p>
+
+<h1>⚙️ Tools & Platforms</h1>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,vercel,netlify" />
 </p>
