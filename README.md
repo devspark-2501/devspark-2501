@@ -7,7 +7,7 @@ I’m still figuring things out, constantly learning, and always open to new ide
 <h1>🛠️ Tech Stack</h1>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,tailwind,python,dart,flutter,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,expressjs,ts,tailwind,python,dart,flutter,mongodb" />
 </p>
 
 <h1>⚙️ Tools & Platforms</h1>
