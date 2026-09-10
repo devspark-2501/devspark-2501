@@ -5,7 +5,7 @@ I’m always curious to try something new, challenge myself, and turn ideas into
 I’m still figuring things out, constantly learning, and always open to new ideas, opportunities, and collaborations. I’d love to connect with people who are on a similar journey!🔥
 
 
-🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,tailwind,python,dart,flutter" />
