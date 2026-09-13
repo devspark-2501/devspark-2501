@@ -1,4 +1,4 @@
-Hey! I’m Tanush, a 16-year-old passionate developer who loves building, exploring, and learning new things. 🚀
+Hey! I’m Tanush, a passionate developer who loves building, exploring, and learning new things. 🚀
 
 I’m always curious to try something new, challenge myself, and turn ideas into real projects. Right now, I’m also looking to meet other people who are interested in building, learning, and creating together.
 
