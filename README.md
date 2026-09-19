@@ -22,4 +22,8 @@ I’m still figuring things out, constantly learning, and always open to new ide
   <a href="mailto:devspark2501@gmail.com">
     <img src="https://img.shields.io/badge/Email-devspark2501%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <a href="https://www.linkedin.com/in/tanush-mathur-bbb2a9438/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tanush%20Mathur-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
