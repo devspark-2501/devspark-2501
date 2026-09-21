@@ -13,7 +13,7 @@ I’m still figuring things out, constantly learning, and always open to new ide
 <h1>⚙️ Tools & Platforms</h1>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,vercel,netlify,figma" />
 </p>
 
 <h1>📬 Contact Me</h1>
