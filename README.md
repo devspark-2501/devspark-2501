@@ -26,4 +26,8 @@ I’m still figuring things out, constantly learning, and always open to new ide
   <a href="https://www.linkedin.com/in/tanush-mathur-bbb2a9438/">
     <img src="https://img.shields.io/badge/LinkedIn-Tanush%20Mathur-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://x.com/Tanush_550">
+    <img src="https://img.shields.io/badge/X-Tanush__550-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
